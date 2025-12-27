@@ -1,4 +1,4 @@
-# Hi, I'm navneet627 👋
+# Hi, I'm Navneet Srivastava,
 
 > Passionate builder — turning ideas into clean, reliable software.  
 > I focus on thoughtful engineering, open source, and learning every day.
