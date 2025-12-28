@@ -12,28 +12,23 @@
 ## About Me
 I build reliable, maintainable software and love solving hard problems with elegant solutions. I enjoy working across the full stack and contributing to open source. I value clarity, testing, and collaborative teams.
 
-- 🔭 Currently: working on meaningful projects and improving my craft
-- 🌱 Learning: advanced patterns in distributed systems and observability
-- 💬 Ask me about: system design, backend engineering, TypeScript, and automation
-- ⚡ Fun: coffee, chess, and building helpful developer tools
+Currently: working on meaningful projects and improving my craft
+Learning: advanced patterns in distributed systems and observability
+Ask me about: system design, backend engineering
 
----
 
 ## What I Do
 - Design and implement scalable backend services
 - Build user-friendly frontends with attention to UX and accessibility
 - Automate workflows and CI/CD for fast, safe releases
-- Mentor others, write clear documentation, and ship with tests
 
 ---
 
 ## Skills
-- Languages: TypeScript, Python, Go, SQL
-- Backend: Node.js, Express, FastAPI, gRPC
-- Frontend: React, Next.js, Tailwind CSS
-- Databases: PostgreSQL, Redis, MongoDB
-- Cloud & DevOps: AWS, Docker, GitHub Actions, Terraform
-- Testing & Observability: Jest, pytest, Prometheus, Grafana
+- Languages: Java
+- Backend: Springboot
+- Databases: MySQL
+- Cloud & DevOps: AWS, Docker, GitHub Actions
 
 (If you'd like, I can convert the above into badge icons and a compact skill grid.)
 
@@ -54,9 +49,8 @@ I enjoy contributing to libraries and community tools. I prioritize clear issues
 ---
 
 ## How to Reach Me
-- Email: your.email@example.com
+- Email: navneetsrivastava6481@gmail.com
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - Website/Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
@@ -70,8 +64,7 @@ I enjoy contributing to libraries and community tools. I prioritize clear issues
 
 ## More
 - Resume: [Download PDF](https://yourwebsite.com/resume.pdf)
-- Pronouns: they/them (optional)
-- Open to: full-time roles, contract work, mentorship, and open-source collaboration
+- Open to: full-time roles, contract work
 
 ---
 
