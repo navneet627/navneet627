@@ -19,7 +19,6 @@ Ask me about: system design, backend engineering
 
 ## What I Do
 - Design and implement scalable backend services
-- Build user-friendly frontends with attention to UX and accessibility
 - Automate workflows and CI/CD for fast, safe releases
 
 ---
@@ -27,19 +26,14 @@ Ask me about: system design, backend engineering
 ## Skills
 - Languages: Java
 - Backend: Springboot
-- Databases: MySQL
+- Databases: MySQL, PostgreSQL
 - Cloud & DevOps: AWS, Docker, GitHub Actions
 
 (If you'd like, I can convert the above into badge icons and a compact skill grid.)
 
 ---
 
-## Featured Projects
-- [project-1](https://github.com/navneet627/project-1) — Short one-line description of what it does and why it's interesting.
-- [project-2](https://github.com/navneet627/project-2) — Short one-line description highlighting the tech or impact.
-- [project-3](https://github.com/navneet627/project-3) — Short one-line description and link to demo/docs.
 
-Tip: Pin these repositories on your GitHub profile for more visibility.
 
 ---
 
@@ -52,13 +46,6 @@ I enjoy contributing to libraries and community tools. I prioritize clear issues
 - Email: navneetsrivastava6481@gmail.com
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
 - Website/Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-## How I Work
-- I write tests before fixing bugs and aim for small, iterative changes.
-- Prefer clear interfaces and API contracts over complex internal optimizations.
-- I communicate progress early and often; documentation matters.
 
 ---
 
