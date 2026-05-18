@@ -4,10 +4,6 @@
 Passionate about building scalable backend systems, secure APIs, and reliable software solutions.
 I enjoy solving complex engineering problems, optimizing performance, and continuously improving my development craft.
 
-[![GitHub followers](https://img.shields.io/github/followers/navneet627?label=Follow&style=social)](https://github.com/navneet627)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneet627&layout=compact&theme=tokyonight)](https://github.com/navneet627)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navneet627&show_icons=true&theme=tokyonight)
-
 ---
 
 ## About Me
