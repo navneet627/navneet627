@@ -1,7 +1,8 @@
-# Hi, I'm Navneet Srivastava,
+# Hi there 👋 I'm Navneet Srivastava
 
-> Passionate builder — turning ideas into clean, reliable software.  
-> I focus on thoughtful engineering, open source, and learning every day.
+🚀 Java Backend Developer | Spring Boot | REST APIs | PostgreSQL | AWS
+Passionate about building scalable backend systems, secure APIs, and reliable software solutions.
+I enjoy solving complex engineering problems, optimizing performance, and continuously improving my development craft.
 
 [![GitHub followers](https://img.shields.io/github/followers/navneet627?label=Follow&style=social)](https://github.com/navneet627)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneet627&layout=compact&theme=tokyonight)](https://github.com/navneet627)
@@ -10,42 +11,48 @@
 ---
 
 ## About Me
-I build reliable, maintainable software and love solving hard problems with elegant solutions. I enjoy working across the full stack and contributing to open source. I value clarity, testing, and collaborative teams.
-
-Currently: working on meaningful projects and improving my craft
-Learning: advanced patterns in distributed systems and observability
-Ask me about: system design, backend engineering
-
-
-## What I Do
-- Design and implement scalable backend services
-- Automate workflows and CI/CD for fast, safe releases
-
----
-
-## Skills
-- Languages: Java
-- Backend: Springboot
-- Databases: MySQL, PostgreSQL
-- Cloud & DevOps: AWS, Docker, GitHub Actions
-
-(If you'd like, I can convert the above into badge icons and a compact skill grid.)
-
----
+💼 Software Engineer at Cognizant
+⚙️ 2+ years of experience in backend development
+🔐 Experienced in JWT Authentication & Spring Security
+☁️ Working with AWS, Docker, and CI/CD pipelines
+📈 Focused on scalable microservices and performance optimization
+🧠 Solved 400+ DSA problems on LeetCode & GeeksforGeeks
 
 
+🚀 Tech Stack
+👨‍💻 Languages
+Java
+SQL
+⚙️ Backend Development
+Spring Boot
+REST APIs
+Hibernate / JPA
+Spring Security
+JWT Authentication
+Microservices
 
 ---
 
-## Open Source & Contributions
-I enjoy contributing to libraries and community tools. I prioritize clear issues, helpful PRs, and thoughtful code reviews. If you maintain a project and want help, reach out!
+🗄️ Databases
+PostgreSQL
+MySQL
+☁️ Cloud & DevOps
+AWS
+Docker
+CI/CD Pipelines
+GitHub Actions
+🛠️ Tools
+Git & GitHub
+Maven
+Postman
+IntelliJ IDEA
+VS Code
 
----
 
 ## How to Reach Me
 - Email: navneetsrivastava6481@gmail.com
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- Website/Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: https://www.linkedin.com/in/navneet-srivastava-85019a236/
+  
 
 ---
 
@@ -55,4 +62,4 @@ I enjoy contributing to libraries and community tools. I prioritize clear issues
 
 ---
 
-Thanks for visiting my profile — if anything here resonates, let's connect! 🚀
+⭐ Always open to learning, collaborating, and building impactful software.
