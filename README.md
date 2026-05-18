@@ -20,33 +20,14 @@ I enjoy solving complex engineering problems, optimizing performance, and contin
 
 
 🚀 Tech Stack
-👨‍💻 Languages
-Java
-SQL
-⚙️ Backend Development
-Spring Boot
-REST APIs
-Hibernate / JPA
-Spring Security
-JWT Authentication
-Microservices
+👨‍💻 Languages - Java, SQL
+⚙️ Backend Development - Spring Boot, REST APIs, Hibernate / JPA, Spring Security, JWT Authentication, Microservices
 
 ---
 
-🗄️ Databases
-PostgreSQL
-MySQL
-☁️ Cloud & DevOps
-AWS
-Docker
-CI/CD Pipelines
-GitHub Actions
-🛠️ Tools
-Git & GitHub
-Maven
-Postman
-IntelliJ IDEA
-VS Code
+🗄️ Databases- PostgreSQL, MySQL
+☁️ Cloud & DevOps- AWS, Docker, CI/CD Pipelines, GitHub Actions
+🛠️ Tools- Git & GitHub, Maven, Postman, IntelliJ IDEA, VS Code
 
 
 ## How to Reach Me
