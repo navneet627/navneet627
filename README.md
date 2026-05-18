@@ -32,11 +32,6 @@ I enjoy solving complex engineering problems, optimizing performance, and contin
   
 
 ---
-
-## More
-- Resume: [Download PDF](https://yourwebsite.com/resume.pdf)
 - Open to: full-time roles, contract work
-
----
 
 ⭐ Always open to learning, collaborating, and building impactful software.
